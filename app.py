@@ -60,7 +60,7 @@ def main():
     st.write(f"Document Selected :  {option}")
     file = option
     data = []
-    with open("docs" + '/' + file, 'r', errors='ignore') as fileobj:
+    with open(file, 'r', errors='ignore') as fileobj:
         data.append(fileobj.read())
     data=np.array(data)
     print(data)
