@@ -1,9 +1,9 @@
 ## Naive-Bayes-Classifier
 This project is about learning the concept behind Naive Bayes Classifier. I have implemented Naive Bayes from scratch by creating a class containing the fit() & predict() function.
 ## Dataset
-Link : ![Dataset]("https://www.kaggle.com/crawford/20-newsgroups")
+Link : https://www.kaggle.com/crawford/20-newsgroups
 ## Live App on Heroku
-![Link]("https://text-classification-naive.herokuapp.com/")
+https://text-classification-naive.herokuapp.com/
 ## Flowchart
 ![text](flowchart.png)
 ## Learning
